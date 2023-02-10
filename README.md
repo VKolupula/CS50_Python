@@ -1,2 +1,3 @@
-# CS50_Test
+# HarvardX - CS50P
+Introduction to Programming with Python by 
  
